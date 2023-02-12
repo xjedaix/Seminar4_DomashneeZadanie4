@@ -1,0 +1,15 @@
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.csproj.AssemblyReference.cache
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.AssemblyInfoInputs.cache
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.AssemblyInfo.cs
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.csproj.CoreCompileInputs.cache
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/bin/Debug/net7.0/zad3
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/bin/Debug/net7.0/zad3.deps.json
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/bin/Debug/net7.0/zad3.runtimeconfig.json
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/bin/Debug/net7.0/zad3.dll
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/bin/Debug/net7.0/zad3.pdb
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.dll
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/refint/zad3.dll
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.pdb
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/zad3.genruntimeconfig.cache
+/Users/evgenijklimov/Desktop/Seminar4_DomashneeZadanie4/zad3/obj/Debug/net7.0/ref/zad3.dll
